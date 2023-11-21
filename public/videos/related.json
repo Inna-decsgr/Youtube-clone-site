@@ -1,0 +1,1086 @@
+{
+    "kind": "youtube#playlistListResponse",
+    "etag": "NR8FQwyrFIaeDHyojwfkw4t3EZ8",
+    "nextPageToken": "CBkQAA",
+    "pageInfo": {
+        "totalResults": 41,
+        "resultsPerPage": 25
+    },
+    "items": [
+        {
+            "kind": "youtube#playlist",
+            "etag": "oYWEkNJx2mR8YJGhfIe8bhoYZiY",
+            "id": "PL_Cqw69_m_yyP4yMDJSQ7QE_FHpoXmIgw",
+            "snippet": {
+                "publishedAt": "2023-11-08T13:21:16Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "SB Projects",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/PzNLMmAOlEU/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/PzNLMmAOlEU/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/PzNLMmAOlEU/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/PzNLMmAOlEU/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/PzNLMmAOlEU/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "SB Projects",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "WUfiChraDlEMYNBysbhW5TECtEY",
+            "id": "PL_Cqw69_m_yzjBDmV_H76_a7dq1lGB3Vg",
+            "snippet": {
+                "publishedAt": "2023-07-25T07:56:57Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "Quality Control Music",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/jf2bM4bjzUA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/jf2bM4bjzUA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/jf2bM4bjzUA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/jf2bM4bjzUA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/jf2bM4bjzUA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "Quality Control Music",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "WR-mKoJTI4PTTirgisXUHPih-ss",
+            "id": "PL_Cqw69_m_yx3eiDboZc7dcPLaguaAj24",
+            "snippet": {
+                "publishedAt": "2023-06-08T07:08:48Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BMLG",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/61s35TCMOA4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/61s35TCMOA4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/61s35TCMOA4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/61s35TCMOA4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/61s35TCMOA4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "BMLG",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "qSVw2jzPhYNCzcUa1h4e96A_yYw",
+            "id": "PL_Cqw69_m_yyrlWVjpiroujovrI81Tq51",
+            "snippet": {
+                "publishedAt": "2023-05-01T14:29:17Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "MIDNATT",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oVyTCeeETQI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oVyTCeeETQI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oVyTCeeETQI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oVyTCeeETQI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oVyTCeeETQI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "MIDNATT",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "DA0xLpFYzrQ0IJTBxziddbvtomk",
+            "id": "PL_Cqw69_m_yzndHP69oTCny_i7bt3Tn-M",
+            "snippet": {
+                "publishedAt": "2023-04-27T09:42:51Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BOYNEXTDOOR",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/97_-_WugRFA/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/97_-_WugRFA/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/97_-_WugRFA/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/97_-_WugRFA/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/97_-_WugRFA/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "BOYNEXTDOOR",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "JvQd4a7gqcZtxZkfB4ASSePGbYo",
+            "id": "PL_Cqw69_m_yzKmLMg-ENri2LW8n1Sf17j",
+            "snippet": {
+                "publishedAt": "2023-02-05T15:00:46Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "HWANG MIN HYUN (황민현)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/i_uxTM3-INc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/i_uxTM3-INc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/i_uxTM3-INc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/i_uxTM3-INc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/i_uxTM3-INc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "HWANG MIN HYUN (황민현)",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "heImGHGrs32_sZ0fdCRRUfj-W5k",
+            "id": "PL_Cqw69_m_yzrWcrzcTWPewoiJ2EtSKi-",
+            "snippet": {
+                "publishedAt": "2022-11-08T07:20:30Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "&TEAM",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UJaW2Z5DxS8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UJaW2Z5DxS8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UJaW2Z5DxS8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UJaW2Z5DxS8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UJaW2Z5DxS8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "&TEAM",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "SXeZL4Ir6ntr6kbey7W5PBeKiqc",
+            "id": "PL_Cqw69_m_yztYoJ1cuc5cpRy1Sz-GdDO",
+            "snippet": {
+                "publishedAt": "2022-09-22T08:51:35Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BAEKHO (백호)",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/r8WAqSy-jWQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/r8WAqSy-jWQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/r8WAqSy-jWQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/r8WAqSy-jWQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/r8WAqSy-jWQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "BAEKHO (백호)",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "fkEZZEW-_qwzSFerT4EN90a6Ftw",
+            "id": "PL_Cqw69_m_ywY88NJ5SlpuaO_rmpKXO0D",
+            "snippet": {
+                "publishedAt": "2022-07-21T08:13:12Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "NewJeans",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "NewJeans",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "g-ZmwGoRr3q-ySaGiZHawuF2nsk",
+            "id": "PL_Cqw69_m_yx3yMCX2ugapYDMGKFhfGbp",
+            "snippet": {
+                "publishedAt": "2022-07-21T08:13:00Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "ADOR",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/dJdqn5v4Dkw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "ADOR",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "fsubKwYGDU2nIg9_e3yzUKJb_Jc",
+            "id": "PL_Cqw69_m_yyj20pg0TQy5xZ7qeUcTI2F",
+            "snippet": {
+                "publishedAt": "2022-07-18T09:01:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "ZICO",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/mRWqTnLQGRw/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/mRWqTnLQGRw/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/mRWqTnLQGRw/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/mRWqTnLQGRw/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/mRWqTnLQGRw/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "ZICO",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "6EJcyNTMek6SFTdAw750nXHIjNw",
+            "id": "PL_Cqw69_m_yyt4AMPILtBTdwmSabmQXrW",
+            "snippet": {
+                "publishedAt": "2022-05-26T04:31:49Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "HYBE LABELS JAPAN",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/UJaW2Z5DxS8/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/UJaW2Z5DxS8/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/UJaW2Z5DxS8/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/UJaW2Z5DxS8/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/UJaW2Z5DxS8/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "HYBE LABELS JAPAN",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "fETJ7DpS8u6f6jXE1hl3fS_y9hw",
+            "id": "PL_Cqw69_m_yy38oAByQnsdPfst3IgOMxL",
+            "snippet": {
+                "publishedAt": "2022-03-25T06:33:44Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "LE SSERAFIM",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/oKBwWQI-IoI/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/oKBwWQI-IoI/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/oKBwWQI-IoI/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/oKBwWQI-IoI/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/oKBwWQI-IoI/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "LE SSERAFIM",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "cAspFiIFzwhlJ9YL4GMbARsqBF4",
+            "id": "PL_Cqw69_m_yw7897Mi0ojIY1LgDkRNJaP",
+            "snippet": {
+                "publishedAt": "2022-01-07T02:45:00Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "Weverse Con Festival",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/AfDUJ103DuQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/AfDUJ103DuQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/AfDUJ103DuQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/AfDUJ103DuQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/AfDUJ103DuQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "Weverse Con Festival",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "7bhCwykqvGhsnO7c1r5rqaCos1A",
+            "id": "PL_Cqw69_m_yyg3SslKsWjD8wPxaaM71T2",
+            "snippet": {
+                "publishedAt": "2021-11-04T04:02:30Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "HYBE x Geffen",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/lk5DHL5In_s/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/lk5DHL5In_s/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/lk5DHL5In_s/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/lk5DHL5In_s/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/lk5DHL5In_s/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "HYBE x Geffen",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "rMzgze0ihA5yiJK9mkJt9oXxgoc",
+            "id": "PL_Cqw69_m_yyAZ1QABPigf6hqpSzMYsBT",
+            "snippet": {
+                "publishedAt": "2021-09-01T09:08:12Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "fromis_9",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/DZBl8Y0o5z4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/DZBl8Y0o5z4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/DZBl8Y0o5z4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/DZBl8Y0o5z4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/DZBl8Y0o5z4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "fromis_9",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "gfW4bPjfoRA_HJB2nDVzC0uF8hM",
+            "id": "PL_Cqw69_m_ywOmrYe79Ancn6w9tVJ2Zex",
+            "snippet": {
+                "publishedAt": "2021-02-13T03:54:31Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "TXT & EN- PLAYGROUND",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/00MBzKHRs2Q/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/00MBzKHRs2Q/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/00MBzKHRs2Q/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/00MBzKHRs2Q/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/00MBzKHRs2Q/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "TXT & EN- PLAYGROUND",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "5h3naMpy2BqAjzQmES87-FvUPhk",
+            "id": "PL_Cqw69_m_yz5vCkNacvr0hxdSmOj6AHq",
+            "snippet": {
+                "publishedAt": "2021-01-12T09:00:20Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "KOZ Entertainment",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/gIEZ-AnFz84/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/gIEZ-AnFz84/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/gIEZ-AnFz84/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/gIEZ-AnFz84/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/gIEZ-AnFz84/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "KOZ Entertainment",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "TPW4j_Z6A-xmeNbUnYyNUSxVH3Q",
+            "id": "PL_Cqw69_m_ywZzMrQO0Yv2CWxKFEs1c6N",
+            "snippet": {
+                "publishedAt": "2021-01-07T09:01:02Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "Dvwn",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/1vLNGcRwWdc/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/1vLNGcRwWdc/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/1vLNGcRwWdc/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/1vLNGcRwWdc/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/1vLNGcRwWdc/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "Dvwn",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "sEMg05lL1Wh1ZmfxD3rJprymG68",
+            "id": "PL_Cqw69_m_yz6CRF0qqCo0QetcUp76KGk",
+            "snippet": {
+                "publishedAt": "2020-12-24T12:43:44Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "2021 NEW YEAR’S EVE LIVE",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/Ir466ul_M8c/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/Ir466ul_M8c/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/Ir466ul_M8c/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/Ir466ul_M8c/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/Ir466ul_M8c/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "2021 NEW YEAR’S EVE LIVE",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "rgrPZJXsBXX2LqmhZIQCJpO104U",
+            "id": "PL_Cqw69_m_yypdKsu2xV0M0UZ0V1OuiXl",
+            "snippet": {
+                "publishedAt": "2020-10-21T15:08:57Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "ENHYPEN",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/qedonJosQ3g/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/qedonJosQ3g/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/qedonJosQ3g/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/qedonJosQ3g/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/qedonJosQ3g/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "ENHYPEN",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "TKwxZTMHU5SHk8VFUzHA2mxguAU",
+            "id": "PL_Cqw69_m_yzLCEWMlRxNmoHe0vPkXi9m",
+            "snippet": {
+                "publishedAt": "2020-05-23T14:12:50Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "BUMZU",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/0uHVjSj-pG4/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/0uHVjSj-pG4/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/0uHVjSj-pG4/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/0uHVjSj-pG4/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/0uHVjSj-pG4/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "BUMZU",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "IAsb64D_CyVs5mU6UixEGWpkDbA",
+            "id": "PL_Cqw69_m_ywLcKO6_jF_Dut090l8A6R6",
+            "snippet": {
+                "publishedAt": "2020-05-23T04:47:49Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "SEVENTEEN",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "SEVENTEEN",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "2j3RDCaWltbtdBMB1faLrYuuzTs",
+            "id": "PL_Cqw69_m_ywdLkwxOt7_nWFFUL2SOrhy",
+            "snippet": {
+                "publishedAt": "2020-05-22T07:13:44Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "NU'EST",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/9dNND29yPhQ/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/9dNND29yPhQ/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/9dNND29yPhQ/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/9dNND29yPhQ/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/9dNND29yPhQ/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "NU'EST",
+                    "description": ""
+                }
+            }
+        },
+        {
+            "kind": "youtube#playlist",
+            "etag": "pB2uicDLj0ttI0knspaquelDAHg",
+            "id": "PL_Cqw69_m_yzWM8F-lKnfe8HhSb4xE1va",
+            "snippet": {
+                "publishedAt": "2020-05-22T07:05:09Z",
+                "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+                "title": "PLEDIS Entertainment",
+                "description": "",
+                "thumbnails": {
+                    "default": {
+                        "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/default.jpg",
+                        "width": 120,
+                        "height": 90
+                    },
+                    "medium": {
+                        "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/mqdefault.jpg",
+                        "width": 320,
+                        "height": 180
+                    },
+                    "high": {
+                        "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/hqdefault.jpg",
+                        "width": 480,
+                        "height": 360
+                    },
+                    "standard": {
+                        "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/sddefault.jpg",
+                        "width": 640,
+                        "height": 480
+                    },
+                    "maxres": {
+                        "url": "https://i.ytimg.com/vi/zSQ48zyWZrY/maxresdefault.jpg",
+                        "width": 1280,
+                        "height": 720
+                    }
+                },
+                "channelTitle": "HYBE LABELS",
+                "localized": {
+                    "title": "PLEDIS Entertainment",
+                    "description": ""
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,1303 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "LP9iy7UFdyBDyeqxQgj0NSUX7yI",
+    "nextPageToken": "Z2V0X25ld2VzdF9maXJzdC0tQ2dnSWdBUVZGN2ZST0JJRkNJY2dHQUFTQlFpSklCZ0FFZ1VJblNBWUFSSUZDSWdnR0FBWUFDSU9DZ3dJZzV2cHFnWVEwSUdaa2dF",
+    "pageInfo": {
+        "totalResults": 40,
+        "resultsPerPage": 40
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "CzRiiAVCpsJoyoHnFhBhwcZE-k0",
+            "id": "UgxB19BV9Bv0ITzo3994AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "srHAcl4tS8ITtn-kI1xT56CY1XY",
+                    "id": "UgxB19BV9Bv0ITzo3994AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "박진영 멋있다. 나중에 위인전에 나와야 할 사람",
+                        "textOriginal": "박진영 멋있다. 나중에 위인전에 나와야 할 사람",
+                        "authorDisplayName": "Natalie Lee",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKaSyiHLl2pehRViatRAHz7F2UeCIV9R5wKybQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCdNmp_6kD_u7bKGkNWR6evQ",
+                        "authorChannelId": {
+                            "value": "UCdNmp_6kD_u7bKGkNWR6evQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T21:08:15Z",
+                        "updatedAt": "2023-11-19T21:08:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "6Ag30_RbBjP0Wu24sPx1lQxJB-s",
+            "id": "UgyR7NZchYiayqSUxPJ4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "tFDqe-ps7x9O4J1wvc56KWUg67s",
+                    "id": "UgyR7NZchYiayqSUxPJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "????????????<br>담주 미스치프 실화????????????",
+                        "textOriginal": "????????????\n담주 미스치프 실화????????????",
+                        "authorDisplayName": "김원",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKY0rPX1z8rvPlGWQ5C5x0tPQZZs_iQb-tgmpg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCaR-CFLJGZ3a1X5rTwzagtA",
+                        "authorChannelId": {
+                            "value": "UCaR-CFLJGZ3a1X5rTwzagtA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T21:08:10Z",
+                        "updatedAt": "2023-11-19T21:08:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Xy1qbpFcpo0QxeLMpOkL3so4TKM",
+            "id": "Ugyiqq3dXqgcZi6rwZV4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "pyBuAL81NKch31WfEaYzXtDBXiE",
+                    "id": "Ugyiqq3dXqgcZi6rwZV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "뜬금없지만 피식쇼에서 언젠가 최우식 배우님 보고싶어요~~",
+                        "textOriginal": "뜬금없지만 피식쇼에서 언젠가 최우식 배우님 보고싶어요~~",
+                        "authorDisplayName": "Anna L",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZU4bmry8UpBIY1UV01ibknY_fLYIE8HYxEMg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC1FcZrJl0k7PC8bBDUPIzRw",
+                        "authorChannelId": {
+                            "value": "UC1FcZrJl0k7PC8bBDUPIzRw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T21:07:41Z",
+                        "updatedAt": "2023-11-19T21:07:41Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JoTeGeD1crAhRE6iSSv1lfbmx88",
+            "id": "UgwBZM7UmKbdcZPU0gh4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "t8rLgF_9WsHgaAkdn6tQkKefY3E",
+                    "id": "UgwBZM7UmKbdcZPU0gh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "존경하는 사람 중 1인 박진영님",
+                        "textOriginal": "존경하는 사람 중 1인 박진영님",
+                        "authorDisplayName": "이유정",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYQMISQWnmoNvOkfAJmQfUeIzDhhex4LlXTgJ7LNw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCDIRVR6fMdJxlfa0en1npCg",
+                        "authorChannelId": {
+                            "value": "UCDIRVR6fMdJxlfa0en1npCg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T21:02:18Z",
+                        "updatedAt": "2023-11-19T21:02:18Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "cSMPUemLjX_cYhP4PyQUV9KoKmE",
+            "id": "Ugz92gXFcsR3_j8ZOKd4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "U-y3AY3jCu78xn6ylNAY-hMoXbE",
+                    "id": "Ugz92gXFcsR3_j8ZOKd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "배려와 연구와 노력이 몸에서 자연스럽게 나오는 멋진 사람  대단 해요",
+                        "textOriginal": "배려와 연구와 노력이 몸에서 자연스럽게 나오는 멋진 사람  대단 해요",
+                        "authorDisplayName": "jeeyoung yoon",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKb-T8YnZHaz_Rq-0d_lJqai57ZjcZ1wFH5cWwYXsA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCNRzyqgBOzV83zVuik5UXxQ",
+                        "authorChannelId": {
+                            "value": "UCNRzyqgBOzV83zVuik5UXxQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:52:16Z",
+                        "updatedAt": "2023-11-19T20:52:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Ec3v1FukGdb-nBPMqeRV3qqp0_g",
+            "id": "UgxhFda6O0yRkiU3Uf54AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "na5KtcYo72DW7VjZRbsv6LQdzW8",
+                    "id": "UgxhFda6O0yRkiU3Uf54AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "반뭌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+                        "textOriginal": "반뭌ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+                        "authorDisplayName": "코코코코눈",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Yg6ec_LB35KF6BolD5TogRFhNOPWMdu2uR157x4mWq1wHvLve6ruTgOYXHtGOXoldoOles2yPg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCP8tUIm0SyDpA-0S3M6j6eg",
+                        "authorChannelId": {
+                            "value": "UCP8tUIm0SyDpA-0S3M6j6eg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:39:56Z",
+                        "updatedAt": "2023-11-19T20:39:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "l_B6_Am9fog6gXNhC4Sc6G9wSic",
+            "id": "Ugx-tEkc29XcnlCdDqx4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jqRZ4rGfPFMzij2nq3m_0y99ABA",
+                    "id": "Ugx-tEkc29XcnlCdDqx4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "담주 Mschf 나오는거 !!???!???",
+                        "textOriginal": "담주 Mschf 나오는거 !!???!???",
+                        "authorDisplayName": "You Young Choi",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZ-OpAzWdPrwvPNMRYV_-zO4bCwqLI3pE9ajA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCKbtzTs7xMt9f2uXUjORfrA",
+                        "authorChannelId": {
+                            "value": "UCKbtzTs7xMt9f2uXUjORfrA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:37:15Z",
+                        "updatedAt": "2023-11-19T20:37:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "PROrN06nBk575cdouhNqS31NzrU",
+            "id": "UgwG5GPEnL9BLU3N7oh4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "OlmMBrfY8Md_bPujzP4asM1hv_U",
+                    "id": "UgwG5GPEnL9BLU3N7oh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "다음주 게스트 대체 누구지?!",
+                        "textOriginal": "다음주 게스트 대체 누구지?!",
+                        "authorDisplayName": "Ja Yeong Kim",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/YFdrDs7lTMsQga9t_wFbO0z2jIhdEKmM6TTCuQU50MY_OB0dUXwsXBG5nWpC0g3ghQe7MF4R5w=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC9DuVkAdRqNf7Td_LvK2XJQ",
+                        "authorChannelId": {
+                            "value": "UC9DuVkAdRqNf7Td_LvK2XJQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:31:00Z",
+                        "updatedAt": "2023-11-19T20:31:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "rviAkdAUHG-1fzfIwvUCzO-yI1E",
+            "id": "Ugx8UrehpzbqrmVV6RR4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "OE2PW2_5XhcVCmRXocfuPg5s3wU",
+                    "id": "Ugx8UrehpzbqrmVV6RR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "왜 다음주 예고 없어..",
+                        "textOriginal": "왜 다음주 예고 없어..",
+                        "authorDisplayName": "오은식",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYB1b3HUMUx1yg3pWni4-GgSJZQFp1sAyCAs1d9ZnwOmA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCs-TfDiydPMyd_UxXvzbxyg",
+                        "authorChannelId": {
+                            "value": "UCs-TfDiydPMyd_UxXvzbxyg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:30:16Z",
+                        "updatedAt": "2023-11-19T20:30:16Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Ixip9lCQBJVt9L06DKd53VEbuF8",
+            "id": "UgxtDH0sVHd-rgHDqp54AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "tOCOMDkidGC_iBmKCrDCYCxQQUs",
+                    "id": "UgxtDH0sVHd-rgHDqp54AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "…👏👏",
+                        "textOriginal": "…👏👏",
+                        "authorDisplayName": "Ola Piechowicz",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/HAoievFPTwS8Ln1ATrj0DrihDqyW3jFcttfcUkGkrYAEFtTuM4nfZShAgTLZouer0p6CKJYBJw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCMrKFntU5mLmRGPNvbdIstg",
+                        "authorChannelId": {
+                            "value": "UCMrKFntU5mLmRGPNvbdIstg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:30:10Z",
+                        "updatedAt": "2023-11-19T20:30:10Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JYST2H-cZJs9PZvnlh3KlBCa8tg",
+            "id": "UgzEmSJ_I66WMpWHiCp4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "3z0nVYp9bZhLfIHk28aNS9TYG5c",
+                    "id": "UgzEmSJ_I66WMpWHiCp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "JYP에 괸한 나민의 오해와편견<br>JYP는 타고난 아티스트인줄알았다<br>그런데  노력하고 또 노력하는 노력파 아티스트였다 <br>멋지다 ❤",
+                        "textOriginal": "JYP에 괸한 나민의 오해와편견\nJYP는 타고난 아티스트인줄알았다\n그런데  노력하고 또 노력하는 노력파 아티스트였다 \n멋지다 ❤",
+                        "authorDisplayName": "물튀김",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/Ovj8CvE-njnowcTGleYqTCnHtMpeMEA4MfoYOPh7t-xt-OpEV6dped_eFyXof5yjeXuAQc6qWx0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCIkVPm8CZvLtYQ5us6AaOuw",
+                        "authorChannelId": {
+                            "value": "UCIkVPm8CZvLtYQ5us6AaOuw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:28:44Z",
+                        "updatedAt": "2023-11-19T20:28:44Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "yYUkGZ7C_cWNi-n-kR08U_UJmG0",
+            "id": "UgwOCgUOX7--fWiKMGd4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "-_0s1ZUPAiLpcKNNOv6AdFkxS8c",
+                    "id": "UgwOCgUOX7--fWiKMGd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "|🔥| ୧⍤⃝🍿 |🔥|",
+                        "textOriginal": "|🔥| ୧⍤⃝🍿 |🔥|",
+                        "authorDisplayName": "김예림",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/fdGpDG_ugC44mAJ7sn4wZTnFYP_8f-ejxa7e4KNVZ4mN8K8y4dnPhARuO3XJIYZDyOchn5QZZg=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC5hn_pE-urcd6SbGqlhzqTw",
+                        "authorChannelId": {
+                            "value": "UC5hn_pE-urcd6SbGqlhzqTw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-11-19T20:24:21Z",
+                        "updatedAt": "2023-11-19T20:24:21Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "_utEAMFVdWY7huT-9V9b8R-r5Cs",
+            "id": "UgxYF6IbRVLTC-_1jf14AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "SthBzeTw1H2aeRwNoZq2BwuNuQ0",
+                    "id": "UgxYF6IbRVLTC-_1jf14AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "JYP gives me Ken jeong in The hangover vibes at an actor 🤣🫶",
+                        "textOriginal": "JYP gives me Ken jeong in The hangover vibes at an actor 🤣🫶",
+                        "authorDisplayName": "Baby Lips",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/6xkCA-YmZeOa3iydHuCSSCnS2KYK_F7Rnstd3L8D-A8O-tCihzhJY8bsxqZ-tN6ZIhzD_Oyp=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC-ICs28U0BZ73odPw2g3DYA",
+                        "authorChannelId": {
+                            "value": "UC-ICs28U0BZ73odPw2g3DYA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:10:15Z",
+                        "updatedAt": "2023-11-19T20:10:15Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "zisNB9qRU_G4ZVwCDGEzfKMWjsc",
+            "id": "UgzPWANzUVQ1tVZ-FYF4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "JajfZtJLb_o8TzysddcFf81mmRY",
+                    "id": "UgzPWANzUVQ1tVZ-FYF4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "❤❤❤❤❤❤❤❤ JYP",
+                        "textOriginal": "❤❤❤❤❤❤❤❤ JYP",
+                        "authorDisplayName": "Angelle Gander",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZd-ohswWUioPDNusREFNjeHfy2cZ1jpUvL3g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCydHkvVymsq5t4eJsM7ALTA",
+                        "authorChannelId": {
+                            "value": "UCydHkvVymsq5t4eJsM7ALTA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:09:19Z",
+                        "updatedAt": "2023-11-19T20:09:19Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "FR0NzE0bprqkvrYWbhhM81a6rGI",
+            "id": "Ugyx4Oim9n2j4ivriWp4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "q_m44O--LCfImHiQ-_mT6-bzNUo",
+                    "id": "Ugyx4Oim9n2j4ivriWp4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "JYP가 자기 아티스트한테 그런 말을 했다고? 슬퍼하지 말고 웃는 척만 해 정신건강을 숨겨...?",
+                        "textOriginal": "JYP가 자기 아티스트한테 그런 말을 했다고? 슬퍼하지 말고 웃는 척만 해 정신건강을 숨겨...?",
+                        "authorDisplayName": "minksetti",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYG078PnBexp6D-wzJU11S-0Yrr4it99qH5kVnXbEo=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCrmrJEzKg1c3pahPx6SNDOw",
+                        "authorChannelId": {
+                            "value": "UCrmrJEzKg1c3pahPx6SNDOw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:05:46Z",
+                        "updatedAt": "2023-11-19T20:05:46Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bpiJKy5_zgg-RPuGHlYT2_ntsqI",
+            "id": "Ugy1IEkacZS9D2vmQY54AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "hX70zIT9EAryFl2DXRZS6y4U9II",
+                    "id": "Ugy1IEkacZS9D2vmQY54AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "JYP.......I love youuuuuuuiuj",
+                        "textOriginal": "JYP.......I love youuuuuuuiuj",
+                        "authorDisplayName": "Angelle Gander",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKZd-ohswWUioPDNusREFNjeHfy2cZ1jpUvL3g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCydHkvVymsq5t4eJsM7ALTA",
+                        "authorChannelId": {
+                            "value": "UCydHkvVymsq5t4eJsM7ALTA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T20:02:51Z",
+                        "updatedAt": "2023-11-19T20:02:51Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "lL6dWoyzoYsGCsFqL4I1GzkkP0o",
+            "id": "UgxWoZrtruzl3eqR-gV4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "LMvwj_1fKzUlmszsjKCnLmpQuiA",
+                    "id": "UgxWoZrtruzl3eqR-gV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "이러다 방시혁도 나오겠네",
+                        "textOriginal": "이러다 방시혁도 나오겠네",
+                        "authorDisplayName": "야",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKb4Lmq0_xIhR_-xP8eJ7iT_yzOg7qqm4bJFKlXaxw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCBV-jaTIPBNCDv_KfzL9F7w",
+                        "authorChannelId": {
+                            "value": "UCBV-jaTIPBNCDv_KfzL9F7w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T19:56:42Z",
+                        "updatedAt": "2023-11-19T19:56:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "bZuNAkn0-AMCeeR1OqEHN0x8R8k",
+            "id": "UgwaOKt4ph3R__vXv-B4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jqjXdNNICdICePI2B0mJdAW6-7w",
+                    "id": "UgwaOKt4ph3R__vXv-B4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "박진영 박찬호마냥 말 겁나많네..투머치토커 나이들면 주댕이는 닫고 지갑을 열라던데",
+                        "textOriginal": "박진영 박찬호마냥 말 겁나많네..투머치토커 나이들면 주댕이는 닫고 지갑을 열라던데",
+                        "authorDisplayName": "Fuckyourself",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/LAhAlIuje5P0H8ljUwqQWHfyHD2lNA46LIDIUTnF-jxG7lM2FyWXZr0cZrKzWY-W2NDj6Lm-=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCt2MPwuBF8xOaVntmFZabhQ",
+                        "authorChannelId": {
+                            "value": "UCt2MPwuBF8xOaVntmFZabhQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T19:49:46Z",
+                        "updatedAt": "2023-11-19T19:49:46Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "8a2Txdt8QL1Re_9La4bSNCKzDa4",
+            "id": "UgyyGrXgpRR8bOCvF5B4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "GkEjlDEM95hpNT2dqZWUqBOwVjs",
+                    "id": "UgyyGrXgpRR8bOCvF5B4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "조상톡투미!~~!ㅋㅋㅋㅋㅋㅋㅋ",
+                        "textOriginal": "조상톡투미!~~!ㅋㅋㅋㅋㅋㅋㅋ",
+                        "authorDisplayName": "오늘을 어떻게 보내지?",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKaR42Mz5k01sZnKgklE3oozoBZeQScfnk4C-TYRZNxR2A=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCKp3XeFLCspP5MoDyPMr7SQ",
+                        "authorChannelId": {
+                            "value": "UCKp3XeFLCspP5MoDyPMr7SQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-11-19T19:45:22Z",
+                        "updatedAt": "2023-11-19T19:45:22Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "tDGoiEwDHk_7s8yytDEvxMMT5ls",
+            "id": "UgyTZGTrxLgMLsvTT_l4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "cKcFeZfeBh4L1Knlu0-W-R44lbs",
+                    "id": "UgyTZGTrxLgMLsvTT_l4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "진짜 멋진 분 이시다..",
+                        "textOriginal": "진짜 멋진 분 이시다..",
+                        "authorDisplayName": "Yong Kim",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbE3qeqx9St3M9LB6THzu20MjUwCLcSDLMF3g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCZ_tF_jhV0ico_xQBVgBpTw",
+                        "authorChannelId": {
+                            "value": "UCZ_tF_jhV0ico_xQBVgBpTw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T19:37:27Z",
+                        "updatedAt": "2023-11-19T19:37:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "CEKM-ghuZI6ciYjdLBmd4b7w_9M",
+            "id": "Ugx6WKJFiGijlE3g5TJ4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "8AHSaZui7fZSg4nmBFGN1Gs12rY",
+                    "id": "Ugx6WKJFiGijlE3g5TJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "맨 마지막 장면 미스치프 아톰부츠 뭐징?",
+                        "textOriginal": "맨 마지막 장면 미스치프 아톰부츠 뭐징?",
+                        "authorDisplayName": "chou listen",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/p42KfLCMTUWxxOR2YUA27d3YbGavMXOCYjvkZNDyZVk7gZjPH2VpOnKBMLyyuinmtNU78SdNzA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCAvp8iZOQBTur07T0u62itA",
+                        "authorChannelId": {
+                            "value": "UCAvp8iZOQBTur07T0u62itA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-11-19T19:32:55Z",
+                        "updatedAt": "2023-11-19T19:32:55Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "H8bXmAPHuT7Vt5FeooEhXZe-VC4",
+            "id": "UgzRzQdC7ezOy1TaEUt4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "Qn9ZTd7eC_87PJMA7xlACrFEfHU",
+                    "id": "UgzRzQdC7ezOy1TaEUt4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "Why is just 27 minutes long?! Park Jinyoung is a busy man after all",
+                        "textOriginal": "Why is just 27 minutes long?! Park Jinyoung is a busy man after all",
+                        "authorDisplayName": "denisse chuco",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYbEWqeM1Zt0EZY2kAQ6F_PDIf_EdNgN7vtKsLkmA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCg58s5UsWcBC83P9Gl4K-Mw",
+                        "authorChannelId": {
+                            "value": "UCg58s5UsWcBC83P9Gl4K-Mw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T19:13:24Z",
+                        "updatedAt": "2023-11-19T19:13:24Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "nSKAXb0ZT6MG64cTj7no0KA2_NQ",
+            "id": "Ugzrskyf2EhVPOsiMy94AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "HFjaYCRk-kKk3dSbFU83inWLdG0",
+                    "id": "Ugzrskyf2EhVPOsiMy94AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "Omfg he is really here!!!",
+                        "textOriginal": "Omfg he is really here!!!",
+                        "authorDisplayName": "denisse chuco",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKYbEWqeM1Zt0EZY2kAQ6F_PDIf_EdNgN7vtKsLkmA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCg58s5UsWcBC83P9Gl4K-Mw",
+                        "authorChannelId": {
+                            "value": "UCg58s5UsWcBC83P9Gl4K-Mw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T19:12:38Z",
+                        "updatedAt": "2023-11-19T19:12:38Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "JSvLdaNQLUC0WF2GRDS_2cPTV2I",
+            "id": "Ugzb-FJQ7dIzBCHYUh94AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "gbjt9MTdpKEoX70h8Is0LMMxx-E",
+                    "id": "Ugzb-FJQ7dIzBCHYUh94AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "나만 그런가? 걍 정말 마케팅 잘한다는 생각이 많이 듦. 저렇게 미국좋아하는데 일본 방송 나가서 일본 음악 너무 좋아해서 내가 보답하고 싶었다고 하고;",
+                        "textOriginal": "나만 그런가? 걍 정말 마케팅 잘한다는 생각이 많이 듦. 저렇게 미국좋아하는데 일본 방송 나가서 일본 음악 너무 좋아해서 내가 보답하고 싶었다고 하고;",
+                        "authorDisplayName": "coookie🍪",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/tJYwYan7Ka-gGloDXqrAMZ3PuTvXwQLM_5T-jeCC8SFAJyCFKZwvKSjg7oVGSMbfNS9Tfd5QNII=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCamo2HhzVAeICBQ1BoOhPag",
+                        "authorChannelId": {
+                            "value": "UCamo2HhzVAeICBQ1BoOhPag"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T18:58:34Z",
+                        "updatedAt": "2023-11-19T19:01:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "jjDk3Tx-cvNBhho5PvaQu9uCku8",
+            "id": "Ugzt-v_GTpyz8MzUazJ4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "RoI3pyXGvUPwN1mTPscU_Bg48kk",
+                    "id": "Ugzt-v_GTpyz8MzUazJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "다음화 누굴깡 ㅜㅜ",
+                        "textOriginal": "다음화 누굴깡 ㅜㅜ",
+                        "authorDisplayName": "갓지누",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbdhDr3DwRZaXqknR_rVW9pI3qXkUD4dfEy5g=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCaFmATtrdLYxjKfTvJvYksg",
+                        "authorChannelId": {
+                            "value": "UCaFmATtrdLYxjKfTvJvYksg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T18:57:08Z",
+                        "updatedAt": "2023-11-19T18:57:08Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "OaBCmWtjDzFJhxt0KPdn0IwL5Hw",
+            "id": "UgzAaqsTQBlwlvVlso14AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "xBOywgRgtik0RoPyL0UIidTSxO4",
+                    "id": "UgzAaqsTQBlwlvVlso14AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "이번편은 진짜 토크쇼같았다 ..약간 지루쓰",
+                        "textOriginal": "이번편은 진짜 토크쇼같았다 ..약간 지루쓰",
+                        "authorDisplayName": "후에에에에엥",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/0B-vhPtCmDy5RgOoyeLmihhEip12rooHPwNfVykPfBSjQCcb7r7Dr-23SA9MUaiSsvLrmCPCKww=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCykIQlLg6BufDNndWQmCk_w",
+                        "authorChannelId": {
+                            "value": "UCykIQlLg6BufDNndWQmCk_w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T18:56:47Z",
+                        "updatedAt": "2023-11-19T18:56:47Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "RiJS86_0yJFuo2bWStciP3VQzZQ",
+            "id": "Ugz22m1kZhRG_T4tOEd4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "D8WV8Ib5H6Wq00V3_y_J23QlC58",
+                    "id": "Ugz22m1kZhRG_T4tOEd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "지난번에 ‘JYP에게 방시혁을 놓아준 것을 후회한 적 있냐고 묻다 ‘ 라는 댓글 있었는데 ㅋㅋㅋㅋ",
+                        "textOriginal": "지난번에 ‘JYP에게 방시혁을 놓아준 것을 후회한 적 있냐고 묻다 ‘ 라는 댓글 있었는데 ㅋㅋㅋㅋ",
+                        "authorDisplayName": "훈제오리",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/DBA4rRWcgI7dsPtBt0hvIr3kcrmMyJ9iiZzo90QK7FK-ntQnjK1EdiunjVgjhfsB1dnrJMPL=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC_3xh5uzMmfwJxB_3SrV-6w",
+                        "authorChannelId": {
+                            "value": "UC_3xh5uzMmfwJxB_3SrV-6w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 2,
+                        "publishedAt": "2023-11-19T18:45:37Z",
+                        "updatedAt": "2023-11-19T18:45:37Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "U7AO7f2xkkiEURkyHNiJZwf_bZw",
+            "id": "Ugz7WBVEjWVoG5j7niR4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "yIHPDxd8hm9rRtlvzBc_PUtYVY8",
+                    "id": "Ugz7WBVEjWVoG5j7niR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "박진영 존나 멋있어",
+                        "textOriginal": "박진영 존나 멋있어",
+                        "authorDisplayName": "싸이코 ",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbS2IwgFTlPIhjxELQNokfqZuxZ4a_2DW1GLpcHJV-BIQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCEjaWARSeZ20nqvv30BCbNQ",
+                        "authorChannelId": {
+                            "value": "UCEjaWARSeZ20nqvv30BCbNQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T18:44:42Z",
+                        "updatedAt": "2023-11-19T18:44:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "YzL7vu49EZh5DqUcAXIMd5FYW-E",
+            "id": "Ugw6_Dz6MxXcf8AcfHZ4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "MHffSkGSUOzHzwG6p2e9hKABHxM",
+                    "id": "Ugw6_Dz6MxXcf8AcfHZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "나에겐 피식대학이 섹..아니 게임이다",
+                        "textOriginal": "나에겐 피식대학이 섹..아니 게임이다",
+                        "authorDisplayName": "박현승",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbNI8Y_FvKOp78PVwa3uaBgJNxEr9RjuEPxxA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC1CKCs2kYNrhSac-xYTGE_g",
+                        "authorChannelId": {
+                            "value": "UC1CKCs2kYNrhSac-xYTGE_g"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T18:44:12Z",
+                        "updatedAt": "2023-11-19T18:44:12Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "LIcPii7nWtGUFnhqfchAJ8iV67Q",
+            "id": "UgzPvXFuDzmGtAbNqI54AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "qeou8BYmwWBfclVSrxNJSE4dgLg",
+                    "id": "UgzPvXFuDzmGtAbNqI54AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "박진영님 진짜 팬이라 종교도 없는데 ‘무엇을 위해 살죠?’ 읽고 종교에도 관심을 가지게 되었습니다~ 사후가 두렵지 않은 자유를 얻은 대단하신 분👍😊 항상 응원 합니다~!",
+                        "textOriginal": "박진영님 진짜 팬이라 종교도 없는데 ‘무엇을 위해 살죠?’ 읽고 종교에도 관심을 가지게 되었습니다~ 사후가 두렵지 않은 자유를 얻은 대단하신 분👍😊 항상 응원 합니다~!",
+                        "authorDisplayName": "[헝가리부부]김패밀리VLOG",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/MTm_SPXnvzAEt85LkUbQFtZNBn_KtKVNMMSdtJVTvTjfIDSKsbzD6SEey8nSsLCacEWIcGth=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCZzQSZv0KDes96yVvdW5f-w",
+                        "authorChannelId": {
+                            "value": "UCZzQSZv0KDes96yVvdW5f-w"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-11-19T18:38:33Z",
+                        "updatedAt": "2023-11-19T18:38:33Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "RyBArU3HYhLjPMHoDnm2angE_Qg",
+            "id": "Ugxcbx_9RAeXceDQ5ZJ4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "r3ZA54k75SmbLqTVluJR5uo0yxM",
+                    "id": "Ugxcbx_9RAeXceDQ5ZJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "Wow whata phony guest",
+                        "textOriginal": "Wow whata phony guest",
+                        "authorDisplayName": "Tony Son",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKbsvyuOxpbIrym-lo5dM-ulo24LMpIf31jgzw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCzoasjA-pFZ7fH5nJ-MEevg",
+                        "authorChannelId": {
+                            "value": "UCzoasjA-pFZ7fH5nJ-MEevg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T18:31:43Z",
+                        "updatedAt": "2023-11-19T18:31:43Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "xnFOQZKTXOgOKAnYg0n5G6gmMnQ",
+            "id": "UgyVU41Vypi265VHEgh4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "CEvu8Sd5z2r7AYiX9f2uCsa7-yY",
+                    "id": "UgyVU41Vypi265VHEgh4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "젤 기대했던 JYP❤  정말 재밌게 봤어요",
+                        "textOriginal": "젤 기대했던 JYP❤  정말 재밌게 봤어요",
+                        "authorDisplayName": "BeatGirl",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKb73SYKHG7S8Z_OXy6si1NSd6aJBtgaCCWWEqJoonQN878VuUyPuIFf_4hwI_lW=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCKeaGZxlD2YSy_OJ8At-SKw",
+                        "authorChannelId": {
+                            "value": "UCKeaGZxlD2YSy_OJ8At-SKw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T18:30:42Z",
+                        "updatedAt": "2023-11-19T18:30:42Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "9NpULqdT8fXiTxs5G96d8xl6ABE",
+            "id": "Ugwow5vBrWvuimpPR114AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "nTQKdzQYEfSICXlWfnURWTSLL6I",
+                    "id": "Ugwow5vBrWvuimpPR114AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "유대인이 금융업으로 세계를 집어 삼켰다면 대한민국은 특유의문화산업으로 점점 세계속에 입지를 굳혀가고 있음. 케이팝이 지금보다 더 제대로 터지려면 비록 시진핑이 꼴보기 싫지만 중국과의 정상외교가 다시 시작된 후라고 본다. 14억 대부분이 한국음악을 미치도록 조아함",
+                        "textOriginal": "유대인이 금융업으로 세계를 집어 삼켰다면 대한민국은 특유의문화산업으로 점점 세계속에 입지를 굳혀가고 있음. 케이팝이 지금보다 더 제대로 터지려면 비록 시진핑이 꼴보기 싫지만 중국과의 정상외교가 다시 시작된 후라고 본다. 14억 대부분이 한국음악을 미치도록 조아함",
+                        "authorDisplayName": "Mojito_origin",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/QZTpVP0iEMUfoeU_UkaASkcUvjOq4GeO7h1CHUTNPEjrzDV1JfABF3HE0FLj2ltBtZ0ZMd_RhcY=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UC4eEJulTPi2-rOOAa5qVdqw",
+                        "authorChannelId": {
+                            "value": "UC4eEJulTPi2-rOOAa5qVdqw"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-11-19T18:09:07Z",
+                        "updatedAt": "2023-11-19T18:44:54Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "9w6gk-kLnKIcUBpzpZqrsXDSeSc",
+            "id": "UgzrEQxy3_YvZblP0UV4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "mcyHHSxJRyd_kePwD_27zPAgN7k",
+                    "id": "UgzrEQxy3_YvZblP0UV4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "but very 지루 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+                        "textOriginal": "21:14  but very 지루 ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ",
+                        "authorDisplayName": "장혜원",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKY3p7ZuYZplZZzduzPo6R-u2dJsMkXRhJAfCA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCqOS6tC1PXAy72TyZVnnMcA",
+                        "authorChannelId": {
+                            "value": "UCqOS6tC1PXAy72TyZVnnMcA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T18:07:27Z",
+                        "updatedAt": "2023-11-19T18:07:27Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "4dk8qRmSoXNwdUsuG_mafcHB_Fw",
+            "id": "UgxjJYPhofTwv-X9jGR4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "jXK8QnZTeZD27sfcqJjj8S4rjCc",
+                    "id": "UgxjJYPhofTwv-X9jGR4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "다음 게스트는 누구라는거임?",
+                        "textOriginal": "다음 게스트는 누구라는거임?",
+                        "authorDisplayName": "에르메노",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/QY-f5Efs3T3W3B109Fy8ZVpoa3qU32y_NoCS1p6sWjHcYj6F3Au_Dd1y6AAApVWkLEQ3_Ym5ZA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCB_SQkPt0sHaf4EYlr42vwQ",
+                        "authorChannelId": {
+                            "value": "UCB_SQkPt0sHaf4EYlr42vwQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-11-19T18:06:03Z",
+                        "updatedAt": "2023-11-19T18:06:03Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "lX1hBRFxCimkWhKQqEr_8l5aoM4",
+            "id": "Ugxklm7UTqeZHeD4zbd4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "bevDEl2tjFqbAuVeM-jdi0YIuyw",
+                    "id": "Ugxklm7UTqeZHeD4zbd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "자기계발 채널같이 너무 도움되고 멋지고 동기부여됐어요 멋져요",
+                        "textOriginal": "자기계발 채널같이 너무 도움되고 멋지고 동기부여됐어요 멋져요",
+                        "authorDisplayName": "디딤돌선생님ASDmom",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ggJZndvS1cnEw-unl0UHgi57oXQJT1mdSzDQIS0xNOn9JNt_4JQdZtzo29Gc-9CtxkJLHKt1BZ8=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCG6LpwxVWFU4cN_lsT6hN3A",
+                        "authorChannelId": {
+                            "value": "UCG6LpwxVWFU4cN_lsT6hN3A"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 1,
+                        "publishedAt": "2023-11-19T18:04:00Z",
+                        "updatedAt": "2023-11-19T18:04:00Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "l9mrwKUN4EHWaYw9CEU853tS0Ms",
+            "id": "UgyQAsKlF8YGL_6F_2d4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "4w64MEywYIjbB0nKbBTLbWxY5Aw",
+                    "id": "UgyQAsKlF8YGL_6F_2d4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "하 이번편 진심 개웋기네 제발",
+                        "textOriginal": "하 이번편 진심 개웋기네 제발",
+                        "authorDisplayName": "o0ho",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/wC8abkpxD9mS9K6QOapooXjfMDIPk7s4Yn8S-Izer9GiN7K2p4VK1tUpuGgxF-SHfIRXS-e7OA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCoTVD02pXrX93Y_Genw6-NA",
+                        "authorChannelId": {
+                            "value": "UCoTVD02pXrX93Y_Genw6-NA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T18:03:55Z",
+                        "updatedAt": "2023-11-19T18:03:55Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "vcN7MiukKx8OLnAP0wMYvWP6jOg",
+            "id": "UgxM3Y6vSceWeUxcihB4AaABAg",
+            "snippet": {
+                "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                "videoId": "QylMcP-q6-w",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "vMhDf0KbRJsH24DfwlDVuadG1u4",
+                    "id": "UgxM3Y6vSceWeUxcihB4AaABAg",
+                    "snippet": {
+                        "channelId": "UCGX5sP4ehBkihHwt5bs5wvg",
+                        "videoId": "QylMcP-q6-w",
+                        "textDisplay": "혹시 올해 넘어가기전에 페이커님이 나와주실순 없을까요~?<br>저의 작은 소망입니당<br>T1우승 축하합니당❤",
+                        "textOriginal": "혹시 올해 넘어가기전에 페이커님이 나와주실순 없을까요~?\n저의 작은 소망입니당\nT1우승 축하합니당❤",
+                        "authorDisplayName": "쟁이",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/APkrFKa4sykDdgyamU8kEQtwprU2vQ-HlzyAC4U0kGaokw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/channel/UCMtcrcs9KB9dZDR82oO70nQ",
+                        "authorChannelId": {
+                            "value": "UCMtcrcs9KB9dZDR82oO70nQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 0,
+                        "publishedAt": "2023-11-19T18:01:39Z",
+                        "updatedAt": "2023-11-19T18:01:39Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        }
+    ]
+}
