@@ -1,3 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --color-bg-dark:white;
+  --color-bg:#ecebe7;
+  --color-text:black;
+  --color-gray:rgb(207, 201, 201);
+  --color-pre:#f2f2f2;
+  --color-pre-dark:black;
+  --color-count:gray;
+}
+
+html.dark {
+  --color-bg-dark:#0F0F0F;
+  --color-bg:white;
+  --color-text:#fdfffd;
+  --color-gray:gray;
+  --color-pre:#dfdbdb;
+  --color-pre-dark:black;
+  --color-count:white;
+}
+
 body {
   margin: 0;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
@@ -5,9 +29,51 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  width: 100vw;
+  height: 100vh;
+  background: var(--color-bg-dark);
+  @apply flex flex-col items-center;
+  color: var(--color-text);
+  overflow-x: hidden;
+}
+
+#root {
+  @apply w-full max-w-screen-2xl
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+input {
+  background-color: var(--color-bg);
+  color: var(--color-pre-dark);
+}
+
+.moon {
+  background: white;
+}
+
+.button {
+  background: var(--color-gray);
+}
+
+.subscribe {
+  color: var(--color-bg-dark);
+  background: var(--color-text);
+}
+
+.pre {
+  background: var(--color-pre);
+  color: var(--color-pre-dark);
+}
+
+.good,
+.hate {
+  color: var(--color-text);
+}
+
+.count {
+  color: var(--color-count);
 }
